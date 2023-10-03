@@ -1,7 +1,7 @@
 ☄️ about Me
 hi, I'm a 19yo boi that doesn't know what he is doing in his life
-🇧🇷 i'm from são paulo, brasil
-😀 my pronouns are he/his
+* 🇧🇷 i'm from são paulo, brasil
+* 😀 my pronouns are he/his
 
 💌 things i like
 * ⚗️ writing
