@@ -1,4 +1,4 @@
-![](https://github.com/felipe-juan/felipe-juan/blob/main/knrel3oet9ia1.gif)
+<img src="https://github.com/felipe-juan/felipe-juan/blob/main/knrel3oet9ia1.gif" width="100" height="100">
 ## ☄️ about me
 hi, I'm a 19yo boi that doesn't know what he is doing in his life
 * 🇧🇷 i'm from são paulo, brasil
