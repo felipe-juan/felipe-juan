@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="200" height="200" src="(https://github.com/felipe-juan/felipe-juan/blob/main/knrel3oet9ia1.gif">
+  <img width="200" height="200" src="https://github.com/felipe-juan/felipe-juan/blob/main/knrel3oet9ia1.gif">
 </p>
 
 ## ☄️ about me
