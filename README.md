@@ -1,16 +1,12 @@
-### Hi there 👋
+☄️ about Me
+hi, I'm a 19yo boi that doesn't know what he is doing in his life
+🇧🇷 i'm from são paulo, brasil
+😀 my pronouns are he/his
 
-<!--
-**felipe-juan/felipe-juan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💌 things i like
+* ⚗️ writing
+* 🎵 j-pop + indie rock | [check my spotify](https://open.spotify.com/user/jawj49qinebgdkt15jgo6lz6c)
+* 🖌️ i really need to change these emojis
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤌 languages that i use
+* none. i'm not a programmer yet lol
