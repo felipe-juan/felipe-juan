@@ -3,7 +3,7 @@
 </p>
 
 ## ☄️ about me
-hi, I'm a 19yo boi that doesn't know what he is doing in his life
+hi, I'm a 19yo boi who doesn't know what he is doing in his life
 * 🇧🇷  i'm from são paulo, brasil
 * 😀  my pronouns are he/his
 
