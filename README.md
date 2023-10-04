@@ -32,6 +32,7 @@ I only know how to make silly introductions, so let's go straight to the facts:
 * **RAM:** 16gb DDR4 (2x 8GB 2133mHz)
 * **Display:** 15,6" / 1080p / IPS
 * **OS:** Windows 11 Enterprise + Arch linux (GNOME)
+
 </details>
 
 details>
