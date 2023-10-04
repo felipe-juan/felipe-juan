@@ -1,4 +1,4 @@
- <img align="left" width="200" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/fumo%20pixels.gif">
+ <img align="left" width="150" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/fumo%20pixels.gif">
 
 # ☄️ about me
 hi, i'm a 19yo boy who doesn't know what he's doing with his life
