@@ -33,6 +33,7 @@ hi, i'm a 19yo boy who doesn't know what he's doing with his life
 * **display:** 15,6" / 1080p / ips
 * **os:** windows 11 enterprise + arch linux with gnome
 </details>
+
 * ⌨️ logitech pebble k380
 * 🖱️ logitech pebble m350
 * 📱 samsung galaxy s10e
