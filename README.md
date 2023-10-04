@@ -34,12 +34,29 @@ hi, i'm a 19yo boy who doesn't know what he's doing with his life
 * **os:** windows 11 enterprise + arch linux with gnome
 </details>
 
-* ⌨️ logitech pebble k380
-* 🖱️ logitech pebble m350
-* 📱 samsung galaxy s10e
-* 📖 kindle paperwhite 11th gen
-* 🎧 edifier tws1 pro
-* ⌚ xiaomi mi band 7
+<details>
+ㅤ<summary>⌨️ logitech pebble k380</summary>
+</details>
+
+<details>
+ㅤ<summary>🖱️ logitech pebble m350</summary>
+</details>
+
+<details>
+ㅤ<summary>📱 samsung galaxy s10e</summary>
+</details>
+
+<details>
+ㅤ<summary>📕 kindle paperwhite 11th gen</summary>
+</details>
+
+<details>
+ㅤ<summary>🎧 edifier tws1 pro</summary></summary>
+</details>
+
+<details>
+ㅤ<summary>⌚ xiaomi mi band 7</summary>
+</details>
 
 ## 🤌 languages that i use
 * none. i'm not a programmer yet lol
