@@ -25,7 +25,7 @@ hi, i'm a 19yo boy who doesn't know what he's doing with his life
 
 ## 🖥️ tech devices
 <details>
-<summary>💻 dell inspiron 7560</summary>
+<summary>ㅤ💻 dell inspiron 7560</summary>
  
 * **cpu:** intel core i5-7200u
 * **gpu:** nvidia geforce 940mx 4gb
