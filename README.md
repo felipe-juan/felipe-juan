@@ -28,6 +28,7 @@ I only know how to make silly introductions, so let's go straight to the facts:
 ㅤ<summary>💻 Dell Inspiron 7560</summary>
  
   <img width="400" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/dell%20inspiron.png">
+  
  * **CPU:** Intel Core i5-7200U
  * **GPU:** Nvidia GeForce 940MX 4GB
  * **RAM:** 16gb DDR4 (2x 8GB 2133mHz)
