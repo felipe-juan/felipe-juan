@@ -4,9 +4,9 @@
 hi, I'm a 19yo boi who doesn't know what he is doing in his life
 * 🇧🇷  i'm from são paulo, brazil
 * 😀  my pronouns are he/his
- <br>
 
  <br>
+
 ## 💌 things i like
 * ⚗️  writing
 * 🎵  j-pop + indie rock | [check my spotify](https://open.spotify.com/user/jawj49qinebgdkt15jgo6lz6c)
