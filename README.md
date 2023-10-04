@@ -5,6 +5,7 @@
 hi, I'm a 19yo boi who doesn't know what he is doing in his life
 * 🇧🇷  i'm from são paulo, brazil
 * 😀  my pronouns are he/his
+ <br>
 </div>
 
 ## 💌 things i like
