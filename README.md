@@ -9,13 +9,19 @@ hi, i'm a 19yo boy who doesn't know what he's doing with his life
 
  <br>
 
+## 🛠️ frequently used tools
+- 📝 obsidian for note-taking
+- 📋 ticktick for to-do list
+- ⭐ anki for flashcards
+- 🔖 notion for bookmarks
+- 📖 kindle for reading
+
 ## 💌 things i like
 * ⚗️  writing/reading
 * 🎥  cinematography
 * 🎵  j-pop + indie rock | [check my spotify](https://open.spotify.com/user/jawj49qinebgdkt15jgo6lz6c)
 * 🖌️  i really need to change these emojis emojis
 
- 
 ## 🤌 languages that i use
 * none. i'm not a programmer yet lol
 * but hopefully i'll get into computer science
