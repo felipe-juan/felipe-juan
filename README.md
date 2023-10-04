@@ -59,6 +59,6 @@ I only know how to make silly introductions, so let's go straight to the facts:
 
 ## 🤌 languages that i use
 * noe. i'm not a programmer yet lol
-* but hopefully i'll get into computer science
+* but hopefully i'll get into computer science soon
  <img align="right" width="40" src="https://upload.wikimedia.org/wikipedia/en/f/fd/Pusheen_the_Cat.png">
 
