@@ -9,11 +9,12 @@ I only know how to make silly introductions, so let's go straight to the facts:
 
 
 ## 🛠️ Frequently Used Tools
-- 📝 Obsidian for note-taking
-- 📋 TickTick for to-do list
-- ⭐ Anki for flashcards
-- 🔖 Notion for bookmarks
-- 📖 Kindle for reading
+* 📝 Obsidian for note-taking
+* 📋 TickTick for to-do list
+* 📲 KDE Connect for phone integration
+* 🔖 Notion for bookmarks
+* ⭐ Anki for flashcards
+* 📖 Kindle for reading
 
 ## 🪄 Hobbies
 * ✍ Writing/Reading
