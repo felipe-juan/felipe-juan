@@ -2,10 +2,10 @@
 
 # 💾 About Me
 I only know how to make silly introductions, so let's go straight to the facts:
-* 🇧🇷 I live in [Bahia, brazil](https://pt.wikipedia.org/wiki/Bahia)
-* 😳 I love cute things
-* 👨‍💻 I rock technology stuff!
-* 🐈 I want a cat so bad
+* 🇧🇷 Living in [Bahia, brazil](https://pt.wikipedia.org/wiki/Bahia)
+* 😳 Love for cute things
+* 👨‍💻 Passionate for technology stuff
+* 🐈 Really NEEDS a cat 
 
 
 ## 🛠️ Frequently Used Tools
