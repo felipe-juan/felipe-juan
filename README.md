@@ -39,38 +39,38 @@ I only know how to make silly introductions, so let's go straight to the facts:
 <details>
 ㅤ<summary>📱 Samsung Galaxy S10e</summary>
  
- <img width="400" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/galaxy%20s10e.jpg">
+ <img width="400" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/galaxy%20s10e.png">
 </details>
 
 <details>
 ㅤ<summary>⌨️ Logitech Pebble K380</summary>
  
-  <img width="400" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/logitech%20k380.jpg">
+  <img width="400" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/logitech%20k380.png">
 </details>
 
 <details>
 ㅤ<summary>🖱️ Logitech Pebble M350</summary>
  
-  <img width="400" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/logitech%20pebble.jpg">
+  <img width="400" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/logitech%20pebble.png">
  </details>
 
 <details>
 ㅤ<summary>📕 Kindle Paperwhite 11th Gen</summary>
 
-  <img width="400" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/kindle%201.jpg">
-   <img width="600" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/kindle%202.jpg">
+  <img width="400" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/kindle%201.png">
+   <img width="600" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/kindle%202.png">
 </details>
 
 <details>
 ㅤ<summary>🎧 Edifier TWS1 Pro</summary></summary>
 
-  <img width="250" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/edifier%20tws1%20pro.jpg">
+  <img width="250" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/edifier%20tws1%20pro.png">
 </details>
 
 <details>
 ㅤ<summary>⌚ Xiaomi Mi Band 7</summary>
 
- <img width="300" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/mi%20band%207.jpg"> 
+ <img width="300" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/mi%20band%207.png"> 
 </details>
 
 ## 🤌 languages that i use
