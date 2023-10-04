@@ -17,7 +17,7 @@ hi, i'm a 19yo boi who doesn't know what he is doing in his life
 
  
 ## 🤌 languages that i use
- <img align="right" width="40" src="https://upload.wikimedia.org/wikipedia/en/f/fd/Pusheen_the_Cat.png">
 * none. i'm not a programmer yet lol
 * but hopefully i'll get into computer science
+ <img align="right" width="40" src="https://upload.wikimedia.org/wikipedia/en/f/fd/Pusheen_the_Cat.png">
 
