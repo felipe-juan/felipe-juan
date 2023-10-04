@@ -14,3 +14,4 @@ hi, I'm a 19yo boi who doesn't know what he is doing in his life
 
 ## 🤌 languages that i use
 * none. i'm not a programmer yet lol
+
