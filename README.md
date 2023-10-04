@@ -1,6 +1,6 @@
  <img align="left" width="150" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/fumo%20pixels.gif">
 
-# 💾 About me
+# 💾 About Me
 I only know how to make silly introductions, so let's go straight to the facts:
 * 🇧🇷 I live in [Bahia, brazil](https://pt.wikipedia.org/wiki/Bahia)
 * 😳 I love cute things
@@ -16,11 +16,11 @@ I only know how to make silly introductions, so let's go straight to the facts:
 - 📖 Kindle for reading
 
 ## 🪄 Hobbies
-* ✍ writing/reading
-* 🎥 cinematography
-* 🎨 nice designs
-* 📺 watching good tv shows
-* 🎵 j-pop + indie rock | [check my spotify](https://open.spotify.com/user/jawj49qinebgdkt15jgo6lz6c)
+* ✍ Writing/Reading
+* 🎥 Cinematography
+* 🎨 Admire nice designs (any kind)
+* 📺 Watching anime/YouTube videos
+* 🎵 J-pop + Indie Rock | [Check my Spotify](https://open.spotify.com/user/jawj49qinebgdkt15jgo6lz6c)
 
 ## 🖥️ Tech Devices
 <details>
