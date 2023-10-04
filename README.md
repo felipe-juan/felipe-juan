@@ -17,20 +17,28 @@ hi, i'm a 19yo boy who doesn't know what he's doing with his life
 - 📖 kindle for reading
 
 ## 💌 things i like
-* ✍  writing/reading
-* 🎥  cinematography
-* 📺  watching good tv shows
-* 🎵  j-pop + indie rock | [check my spotify](https://open.spotify.com/user/jawj49qinebgdkt15jgo6lz6c)
+* ✍ writing/reading
+* 🎥 cinematography
+* 🎨 nice designs
+* 📺 watching good tv shows
+* 🎵 j-pop + indie rock | [check my spotify](https://open.spotify.com/user/jawj49qinebgdkt15jgo6lz6c)
 
-## 💻 tech devices
+## 🖥️ tech devices
 <details>
-<summary>dell inspiron 7560</summary>
+<summary>💻 dell inspiron 7560</summary>
  
-* cpu: intel core i5-7200u
-* gpu: nvidia geforce 940mx 4gb
-* ram: 16gb ddr4 (2x 8gb 2133mhz)
-* display: 15,6" / 1080p / ips
+* **cpu:** intel core i5-7200u
+* **gpu:** nvidia geforce 940mx 4gb
+* **ram:** 16gb ddr4 (2x 8gb 2133mhz)
+* **display:** 15,6" / 1080p / ips
+* **os:** windows 11 enterprise + arch linux with gnome
 </details>
+* ⌨️ logitech pebble k380
+* 🖱️ logitech pebble m350
+* 📱 samsung galaxy s10e
+* 📖 kindle paperwhite 11th gen
+* 🎧 edifier tws1 pro
+* ⌚ xiaomi mi band 7
 
 ## 🤌 languages that i use
 * none. i'm not a programmer yet lol
