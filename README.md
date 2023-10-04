@@ -1,7 +1,7 @@
  <img align="left" width="200" src="https://github.com/felipe-juan/felipe-juan/blob/main/knrel3oet9ia1.gif">
 
 # ☄️ about me
-hi, I'm a 19yo boi who doesn't know what he is doing in his life
+hi, i'm a 19yo boi who doesn't know what he is doing in his life
 * 🇧🇷  i'm from são paulo, brazil
 * 😀  my pronouns are he/his
 
