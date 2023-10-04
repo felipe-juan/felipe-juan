@@ -59,6 +59,7 @@ I only know how to make silly introductions, so let's go straight to the facts:
 ㅤ<summary>📕 Kindle Paperwhite 11th Gen</summary>
 
   <img width="600" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/kindle%201.png">
+  
   <img width="400" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/kindle%202.png">
 </details>
 
