@@ -2,7 +2,7 @@
 
 # 💾 About Me
 I only know how to make silly introductions, so let's get straight to the facts:
-* 🇧🇷 Lives in [Bahia, Brazil](https://pt.wikipedia.org/wiki/Bahia)
+* 🌎 Lives in [Bahia, Brazil](https://pt.wikipedia.org/wiki/Bahia)
 * 😳 Love for cute things
 * 👨‍💻 Passionate about tech stuff
 * 🐈 Really NEEDS a cat 
