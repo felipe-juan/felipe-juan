@@ -51,7 +51,7 @@ I only know how to make silly introductions, so let's go straight to the facts:
 <details>
 ㅤ<summary>🖱️ Logitech Pebble M350</summary>
  
- ![](https://github.com/felipe-juan/felipe-juan/blob/main/assets/logitech%20pebble.jpg)
+ ![](https://github.com/felipe-juan/felipe-juan/blob/main/assets/logitech%20pebble.jpg | 100)
 </details>
 
 <details>
