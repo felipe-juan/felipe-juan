@@ -1,7 +1,7 @@
  <img align="left" width="200" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/fumo%20pixels.gif">
 
 # ☄️ about me
-hi, i'm a 19yo boi who don't know what he is doing in his life
+hi, i'm a 19yo boy who doesn't know what he's doing with his life
 * 🇧🇷 i live in [bahia, brazil](https://pt.wikipedia.org/wiki/Bahia)
 * 😳 i love cute things
 * 💻 i rock technology stuff!
