@@ -19,8 +19,8 @@ I only know how to make silly introductions, so let's get straight to the facts:
 ## 🪄 Hobbies
 * ✍ Writing/Reading
 * 🎥 Cinematography
-* 🎨 Admire nice designs (any kind)
-* 📺 Watching anime/YouTube videos
+* 🎨 Admiring nice designs (any kind)
+* 📺 Watching good YouTube videos
 * 🎵 J-pop + Indie Rock | [Check my Spotify](https://open.spotify.com/user/jawj49qinebgdkt15jgo6lz6c)
 
 ## 🖥️ Tech Devices
