@@ -33,16 +33,18 @@ I only know how to make silly introductions, so let's go straight to the facts:
 * **OS:** Windows 11 Enterprise + Arch linux (GNOME)
 </details>
 
+details>
+ㅤ<summary>📱 Samsung Galaxy S10e</summary>
+
+* Variant: 6GB / 128GB
+</details>
+
 <details>
 ㅤ<summary>⌨️ Logitech Pebble K380</summary>
 </details>
 
 <details>
 ㅤ<summary>🖱️ Logitech Pebble M350</summary>
-</details>
-
-<details>
-ㅤ<summary>📱 Samsung Galaxy S10e</summary>
 </details>
 
 <details>
@@ -58,7 +60,7 @@ I only know how to make silly introductions, so let's go straight to the facts:
 </details>
 
 ## 🤌 languages that i use
-* noe. i'm not a programmer yet lol
+* none. i'm not a programmer yet lol
 * but hopefully i'll get into computer science soon
  <img align="right" width="40" src="https://upload.wikimedia.org/wikipedia/en/f/fd/Pusheen_the_Cat.png">
 
