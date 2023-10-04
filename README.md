@@ -40,7 +40,6 @@ I only know how to make silly introductions, so let's go straight to the facts:
 ㅤ<summary>📱 Samsung Galaxy S10e</summary>
  
  <img width="400" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/galaxy%20s10e.jpg">
-  * Variant: 6GB / 128GB
 </details>
 
 <details>
@@ -52,14 +51,14 @@ I only know how to make silly introductions, so let's go straight to the facts:
 <details>
 ㅤ<summary>🖱️ Logitech Pebble M350</summary>
  
-  <img width="250" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/logitech%20pebble.jpg">
+  <img width="400" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/logitech%20pebble.jpg">
  </details>
 
 <details>
 ㅤ<summary>📕 Kindle Paperwhite 11th Gen</summary>
 
   <img width="400" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/kindle%201.jpg">
-   <img width="500" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/kindle%202.jpg">
+   <img width="600" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/kindle%202.jpg">
 </details>
 
 <details>
