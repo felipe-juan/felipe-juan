@@ -64,13 +64,13 @@ I only know how to make silly introductions, so let's go straight to the facts:
 <details>
 ㅤ<summary>🎧 Edifier TWS1 Pro</summary></summary>
 
-  <img width="400" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/edifier%20tws1%20pro.jpg">
+  <img width="250" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/edifier%20tws1%20pro.jpg">
 </details>
 
 <details>
 ㅤ<summary>⌚ Xiaomi Mi Band 7</summary>
 
- <img width="400" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/mi%20band%207.jpg"> 
+ <img width="300" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/mi%20band%207.jpg"> 
 </details>
 
 ## 🤌 languages that i use
