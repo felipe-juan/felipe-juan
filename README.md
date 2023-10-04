@@ -7,7 +7,6 @@ hi, i'm a 19yo boy who doesn't know what he's doing with his life
 * 💻 i rock technology stuff!
 * 🐈 i want a cat so bad
 
- <br>
 
 ## 🛠️ frequently used tools
 - 📝 obsidian for note-taking
