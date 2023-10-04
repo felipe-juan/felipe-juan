@@ -27,6 +27,7 @@ I only know how to make silly introductions, so let's go straight to the facts:
 <details>
 ㅤ<summary>💻 Dell Inspiron 7560</summary>
  
+  <img align="left" width="250" src="">
  * **CPU:** Intel Core i5-7200U
  * **GPU:** Nvidia GeForce 940MX 4GB
  * **RAM:** 16gb DDR4 (2x 8GB 2133mHz)
@@ -37,40 +38,40 @@ I only know how to make silly introductions, so let's go straight to the facts:
 
 <details>
 ㅤ<summary>📱 Samsung Galaxy S10e</summary>
-
+ 
+ <img align="left" width="250" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/galaxy%20s10e.jpg">
   * Variant: 6GB / 128GB
- ![](https://github.com/felipe-juan/felipe-juan/blob/main/assets/galaxy%20s10e.jpg)
 </details>
 
 <details>
 ㅤ<summary>⌨️ Logitech Pebble K380</summary>
  
- ![](https://github.com/felipe-juan/felipe-juan/blob/main/assets/logitech%20k380.jpg)
+  <img align="left" width="250" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/logitech%20k380.jpg">
 </details>
 
 <details>
 ㅤ<summary>🖱️ Logitech Pebble M350</summary>
  
- ![](https://github.com/felipe-juan/felipe-juan/blob/main/assets/logitech%20pebble.jpg | 100)
-</details>
+  <img align="left" width="250" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/logitech%20pebble.jpg">
+ </details>
 
 <details>
 ㅤ<summary>📕 Kindle Paperwhite 11th Gen</summary>
- 
- ![](https://github.com/felipe-juan/felipe-juan/blob/main/assets/kindle%201.jpg)
- ![](https://github.com/felipe-juan/felipe-juan/blob/main/assets/kindle%202.jpg)
+
+  <img align="left" width="250" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/kindle%201.jpg">
+   <img align="left" width="250" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/kindle%202.jpg">
 </details>
 
 <details>
 ㅤ<summary>🎧 Edifier TWS1 Pro</summary></summary>
- 
- ![](https://github.com/felipe-juan/felipe-juan/blob/main/assets/edifier%20tws1%20pro.jpg)
+
+  <img align="left" width="250" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/edifier%20tws1%20pro.jpg">
 </details>
 
 <details>
 ㅤ<summary>⌚ Xiaomi Mi Band 7</summary>
- 
- ![](https://github.com/felipe-juan/felipe-juan/blob/main/assets/mi%20band%207.jpg)
+
+ <img align="left" width="250" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/mi%20band%207.jpg"> 
 </details>
 
 ## 🤌 languages that i use
