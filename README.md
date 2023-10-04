@@ -27,38 +27,44 @@ I only know how to make silly introductions, so let's go straight to the facts:
 <details>
 ㅤ<summary>💻 Dell Inspiron 7560</summary>
  
-* **CPU:** Intel Core i5-7200U
-* **GPU:** Nvidia GeForce 940MX 4GB
-* **RAM:** 16gb DDR4 (2x 8GB 2133mHz)
-* **Display:** 15,6" / 1080p / IPS
-* **OS:** Windows 11 Enterprise + Arch linux (GNOME)
+ * **CPU:** Intel Core i5-7200U
+ * **GPU:** Nvidia GeForce 940MX 4GB
+ * **RAM:** 16gb DDR4 (2x 8GB 2133mHz)
+ * **Display:** 15,6" / 1080p / IPS
+ * **OS:** Windows 11 Enterprise + Arch linux (GNOME)
 
 </details>
 
 details>
 ㅤ<summary>📱 Samsung Galaxy S10e</summary>
-
-* Variant: 6GB / 128GB
+ ![](https://github.com/felipe-juan/felipe-juan/blob/main/assets/galaxy%20s10e.jpg)
+ * Variant: 6GB / 128GB
 </details>
 
 <details>
 ㅤ<summary>⌨️ Logitech Pebble K380</summary>
+ ![](https://github.com/felipe-juan/felipe-juan/blob/main/assets/logitech%20k380.jpg)
 </details>
 
 <details>
 ㅤ<summary>🖱️ Logitech Pebble M350</summary>
+ ![](https://github.com/felipe-juan/felipe-juan/blob/main/assets/logitech%20pebble.jpg)
 </details>
 
 <details>
 ㅤ<summary>📕 Kindle Paperwhite 11th Gen</summary>
+ ![](https://github.com/felipe-juan/felipe-juan/blob/main/assets/kindle%201.jpg)
+ ![](https://github.com/felipe-juan/felipe-juan/blob/main/assets/kindle%202.jpg)
 </details>
 
 <details>
 ㅤ<summary>🎧 Edifier TWS1 Pro</summary></summary>
+ ![](https://github.com/felipe-juan/felipe-juan/blob/main/assets/edifier%20tws1%20pro.jpg)
 </details>
 
 <details>
 ㅤ<summary>⌚ Xiaomi Mi Band 7</summary>
+ ![](https://github.com/felipe-juan/felipe-juan/blob/main/assets/mi%20band%207.jpg)
 </details>
 
 ## 🤌 languages that i use
