@@ -28,7 +28,7 @@ I only know how to make silly introductions, so let's go straight to the facts:
  
 * **CPU:** Intel Core i5-7200U
 * **GPU:** Nvidia GeForce 940MX 4GB
-* **RAM:** 16gb DDR4 (2x 8gb 2133mHz)
+* **RAM:** 16gb DDR4 (2x 8GB 2133mHz)
 * **Display:** 15,6" / 1080p / IPS
 * **OS:** Windows 11 Enterprise + Arch linux (GNOME)
 </details>
