@@ -17,10 +17,10 @@ hi, i'm a 19yo boy who doesn't know what he's doing with his life
 - 📖 kindle for reading
 
 ## 💌 things i like
-* ⚗️  writing/reading
+* ✍  writing/reading
 * 🎥  cinematography
+* 📺  watching good tv shows
 * 🎵  j-pop + indie rock | [check my spotify](https://open.spotify.com/user/jawj49qinebgdkt15jgo6lz6c)
-* 🖌️  i really need to change these emojis emojis
 
 ## 🤌 languages that i use
 * none. i'm not a programmer yet lol
