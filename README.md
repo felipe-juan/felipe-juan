@@ -1,6 +1,6 @@
  <img align="left" width="150" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/fumo%20pixels.gif">
 
-# ☄️ About me
+# 💾 About me
 I only know how to make silly introductions, so let's go straight to the facts:
 * 🇧🇷 I live in [Bahia, brazil](https://pt.wikipedia.org/wiki/Bahia)
 * 😳 I love cute things
