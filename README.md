@@ -46,7 +46,7 @@ I only know how to make silly introductions, so let's go straight to the facts:
 <details>
 ㅤ<summary>⌨️ Logitech Pebble K380</summary>
  
-  <img width="400" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/logitech%20k380.png">
+  <img width="400" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/logitech%20k380%20cropped.png">
 </details>
 
 <details>
