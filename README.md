@@ -32,7 +32,7 @@ I only know how to make silly introductions, so let's get straight to the facts:
  * **CPU:** Intel Core i5-7200U
  * **GPU:** Nvidia GeForce 940MX 4GB
  * **RAM:** 16GB DDR4 (2x 8GB 2133mHz)
- * **Display:** 15,6" / 1080p / IPS
+ * **Display:** 15.6" / 1080p / IPS
  * **OS:** Windows 11 Enterprise + Arch linux (GNOME)
 
 </details>
