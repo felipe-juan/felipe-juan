@@ -9,12 +9,12 @@ I only know how to make silly introductions, so let's get straight to the facts:
 
 
 ## 🛠️ Frequently Used Tools
-* 📝 Obsidian for note-taking
-* 📋 TickTick for to-do list
-* 📲 KDE Connect for phone integration
-* 🔖 Notion for bookmarks
-* ⭐ Anki for flashcards
-* 📖 Kindle for reading
+* 📝 `Obsidian` for note-taking
+* 📋 `TickTick` for to-do list
+* 📲 `KDE Connect` for phone integration
+* 🔖 `Notion` for bookmarks
+* ⭐ `Anki` for flashcards
+* 📖 `Kindle` for reading
 
 ## 🪄 Hobbies
 * ✍ Writing/Reading
@@ -33,7 +33,7 @@ I only know how to make silly introductions, so let's get straight to the facts:
  * **GPU:** Nvidia GeForce 940MX 4GB
  * **RAM:** 16GB DDR4 (2x 8GB 2133mHz)
  * **Display:** 15.6" / 1080p / IPS
- * **OS:** Windows 11 Enterprise + Arch linux (GNOME)
+ * **OS:** Windows 11 Enterprise + Arch Linux (GNOME)
 
 </details>
 
