@@ -1,6 +1,6 @@
  <img align="left" width="180" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/fumo%20pixels.gif">
 
-# 💾 About Me
+# About Me
 I only know how to make silly introductions, so let's get straight to the facts:
 * 🌎 Lives in [Bahia, Brazil](https://pt.wikipedia.org/wiki/Bahia)
 * 😳 Love for cute things
@@ -8,7 +8,7 @@ I only know how to make silly introductions, so let's get straight to the facts:
 * 🐈 Really NEEDS a cat 
 
 
-## 🛠️ Frequently Used Tools
+## Frequently Used Tools
 * 📝 `Obsidian` for note-taking
 * 📋 `TickTick` for to-do list
 * 📲 `KDE Connect` for phone integration
@@ -16,14 +16,14 @@ I only know how to make silly introductions, so let's get straight to the facts:
 * ⭐ `Anki` for flashcards
 * 📖 `Kindle` for reading
 
-## 🪄 Hobbies
+## Hobbies
 * ✍ Writing/Reading
 * 🎥 Cinematography
 * 🎨 Admiring nice designs (any kind)
 * 📺 Watching good YouTube videos
 * 🎵 J-pop + Indie Rock | [Check my Spotify](https://open.spotify.com/user/jawj49qinebgdkt15jgo6lz6c)
 
-## 🖥️ Tech Devices
+## Tech Devices
 <details>
 ㅤ<summary>💻 Dell Inspiron 7560</summary>
  
@@ -75,7 +75,7 @@ I only know how to make silly introductions, so let's get straight to the facts:
  <img width="300" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/mi%20band%207.png"> 
 </details>
 
-## 🤌 languages that i use
+## languages that i use
 * none. i'm not a programmer yet lol
 * but hopefully i'll get into computer science soon
  <img align="right" width="40" src="https://upload.wikimedia.org/wikipedia/en/f/fd/Pusheen_the_Cat.png">
