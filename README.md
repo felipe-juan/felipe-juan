@@ -33,7 +33,7 @@ I only know how to make silly introductions, so let's get straight to the facts:
  * **GPU:** Nvidia GeForce 940MX 4GB
  * **RAM:** 16GB DDR4 (2x 8GB 2133mHz)
  * **Display:** 15.6" / 1080p / IPS
- * **OS:** Windows 11 Enterprise + _distro hopping with GNOME_ 
+ * **OS:** Windows 11 Enterprise + ~~Arch Linux~~ Fedora 38
 
 </details>
 
