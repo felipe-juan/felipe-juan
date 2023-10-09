@@ -55,12 +55,12 @@ I only know how to make silly introductions, so let's get straight to the facts:
   <img width="400" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/logitech%20pebble.png">
  </details>
 
-<details>
-ㅤ<summary>📕 Kindle Paperwhite 11th Gen</summary>
+<details><summary>📕 Kindle Paperwhite 11th Gen</summary>
 
-  <img width="600" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/kindle%201.png">
+<img width="600" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/kindle%201.png">
   
-  <img width="400" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/kindle%202.png">
+<img width="400" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/kindle%202.png">
+  
 </details>
 
 <details>
