@@ -1,5 +1,5 @@
  <img align="left" width="180" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/fumo%20pixels.gif">
-
+ <img align="right" width="180" src="https://spotify-recently-played-readme.vercel.app/api?user=jawj49qinebgdkt15jgo6lz6c&count={1}">
 # About Me
 I only know how to make silly introductions, so let's get straight to the facts:
 * 🌎 Lives in [Bahia, Brazil](https://pt.wikipedia.org/wiki/Bahia)
@@ -79,6 +79,3 @@ I only know how to make silly introductions, so let's get straight to the facts:
 * none. i'm not a programmer yet lol
 * but hopefully i'll get into computer science soon
  <img align="right" width="40" src="https://upload.wikimedia.org/wikipedia/en/f/fd/Pusheen_the_Cat.png">
-
- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=jawj49qinebgdkt15jgo6lz6c)
-
