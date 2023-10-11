@@ -23,7 +23,7 @@ I only know how to make silly introductions, so let's get straight to the facts:
 * 📺 Watching good YouTube videos
 * 🎵 J-pop + Indie Rock | [Check my Spotify](https://open.spotify.com/user/jawj49qinebgdkt15jgo6lz6c)
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=jawj49qinebgdkt15jgo6lz6c&count=1&width=325)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=jawj49qinebgdkt15jgo6lz6c&count=1&width=330)
 
 ## Tech Devices
 <details>
