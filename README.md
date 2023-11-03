@@ -40,7 +40,7 @@ I only know how to make silly introductions, so let's get straight to the facts:
 </details>
 
 <details>
-ㅤ<summary>📱 Samsung Galaxy S10e</summary>
+ㅤ<summary>📱 Samsung Galaxy S10e - 128GB / 64GB </summary>
  
  <img width="400" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/galaxy%20s10e.png">
 </details>
@@ -57,7 +57,7 @@ I only know how to make silly introductions, so let's get straight to the facts:
   <img width="400" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/logitech%20pebble.png">
  </details>
 
-<details><summary>📕 Kindle Paperwhite 11th Gen</summary>
+<details><summary>📕 Kindle Paperwhite 11th Generation</summary>
 
 <img width="400" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/kindle%202.png">
 
@@ -66,7 +66,7 @@ I only know how to make silly introductions, so let's get straight to the facts:
 </details>
 
 <details>
-ㅤ<summary>🎧 Edifier TWS1 Pro</summary></summary>
+ㅤ<summary>🎧 Moondrop Chu II + Edifier TWS1 Pro</summary></summary>
 
   <img width="250" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/edifier%20tws1%20pro.png">
 </details>
