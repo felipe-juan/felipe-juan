@@ -68,7 +68,7 @@ I only know how to make silly introductions, so let's get straight to the facts:
 <details>
 ㅤ<summary>🎧 Moondrop Chu II + Edifier TWS1 Pro</summary></summary>
  
-|   <img idth="720" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/moondrop%20chu%202.jpg"> | <img idth="720"  src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/edifier%20tws1%20pro.png"> |
+|   <img width="720" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/moondrop%20chu%202.jpg"> | <img width="720"  src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/edifier%20tws1%20pro.png"> |
 | ------------- | ------------- |
 
 </details>
