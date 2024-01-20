@@ -40,7 +40,7 @@ I only know how to make silly introductions, so let's get straight to the facts:
 </details>
 
 <details>
-ㅤ<summary>📱 Samsung Galaxy S10e - 128GB / 64GB </summary>
+ㅤ<summary>📱 Samsung Galaxy S10e</summary>
  
  <img width="400" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/galaxy%20s10e.png">
 </details>
