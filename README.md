@@ -29,14 +29,14 @@ I only know how to make silly introductions, so let's get straight to the facts:
 
 <details>
 ㅤ<summary>💻 ThinkPad L14 Gen 1 AMD/summary>
-    OUTDATED PHOTO LOL the ThinkPad L14 G1 was a recent acquisition, so i'll leave the one of my old Dell Inspiron 7560 for now
+  
+ OUTDATED PHOTO LOL the ThinkPad L14 G1 was a recent acquisition, so i'll leave the one of my old Dell Inspiron 7560 for now
    <img width="400" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/dell%20inspiron%207560.png">
 
  * **CPU:** AMD Ryzen 5 PRO 4650U
  * **GPU:** Radeon Graphics 2GB
  * **RAM:** 16GB DDR4 (2x 8GB 3200MHz)
  * **Display:** 14.0" / 1080p / IPS
-
 </details>
 
 <details>
