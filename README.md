@@ -17,8 +17,8 @@ I only know how to make silly introductions, so let's get straight to the facts:
 * 📖 `Kindle` for reading
 
 ## Hobbies
-* ✍ Writing/Reading
-* 🎥 Cinematography
+* ✍ Writing/Reading (kinda)
+* 🎥 Cinematography (appreciation only) 
 * 🎨 Admiring nice designs (any kind)
 * 📺 Watching good YouTube videos
 * 🎵 J-pop + Indie Rock | [Check my Spotify](https://open.spotify.com/user/jawj49qinebgdkt15jgo6lz6c)
@@ -27,15 +27,15 @@ I only know how to make silly introductions, so let's get straight to the facts:
 
 ## Tech Devices
 <details>
-ㅤ<summary>💻 Dell Inspiron 7560</summary>
- 
-  <img width="400" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/dell%20inspiron%207560.png">
+ㅤ<summary>💻 ThinkPad L14 Gen 1 AMD/summary>
+
+ OUTDATED PHOTO LOL i still need to take a new photo so i'll leave the one of my old Dell Inspiron 7560 for now
+ <img width="400" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/dell%20inspiron%207560.png">
   
- * **CPU:** Intel Core i5-7200U
- * **GPU:** Nvidia GeForce 940MX 4GB
- * **RAM:** 16GB DDR4 (2x 8GB 2133mHz)
- * **Display:** 15.6" / 1080p / IPS
- * **OS:** Windows 10 IoT Enterprise + ~~Arch Linux~~ Fedora 39
+ * **CPU:** AMD Ryzen 5 PRO 4650U
+ * **GPU:** Radeon Graphics 2GB
+ * **RAM:** 16GB DDR4 (2x 8GB 3200MHz)
+ * **Display:** 14.0" / 1080p / IPS
 
 </details>
 
@@ -43,12 +43,6 @@ I only know how to make silly introductions, so let's get straight to the facts:
 ㅤ<summary>📱 Samsung Galaxy S10e</summary>
  
  <img width="400" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/galaxy%20s10e.png">
-</details>
-
-<details>
-ㅤ<summary>⌨️ Logitech Pebble K380</summary>
- 
-  <img width="400" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/logitech%20k380%20cropped.png">
 </details>
 
 <details>
