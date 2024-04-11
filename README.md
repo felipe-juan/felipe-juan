@@ -28,7 +28,6 @@ I only know how to make silly introductions, so let's get straight to the facts:
 ## Tech Devices
 <details>
 ㅤ<summary>💻 ThinkPad L14 Gen 1 AMD/summary>
-
  OUTDATED PHOTO LOL the ThinkPad L14 G1 was a recent acquisition, so i'll leave the one of my old Dell Inspiron 7560 for now
  <img width="400" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/dell%20inspiron%207560.png">
   
