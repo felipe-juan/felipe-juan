@@ -63,7 +63,7 @@ so i'll leave the one of my old Dell Inspiron 7560 for now
 <details>
 ㅤ<summary>🎧 Moondrop Chu II + Edifier TWS1 Pro</summary></summary>
  
-|   <img width="360" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/moondrop%20chu%20rounded.png"> | <img width="360"  src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/edifier%20tws1%20pro.png"> |
+|   <img width="240" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/moondrop%20chu%20rounded.png"> | <img width="240"  src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/edifier%20tws1%20pro.png"> |
 | ------------- | ------------- |
 
 </details>
