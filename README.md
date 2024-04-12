@@ -54,7 +54,7 @@ so i'll leave the one of my old Dell Inspiron 7560 for now
 
 <details><summary>📕 Kindle Paperwhite 11th Generation</summary>
 
-|   <img height="600" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/kindle%202.png"> | <img height="600" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/kindle%201.png"> |
+|   <img height="400" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/kindle%202.png"> | <img height="400" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/kindle%201.png"> |
 | ------------- | ------------- |
 
 
