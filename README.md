@@ -12,7 +12,6 @@ I only know how to make silly introductions, so let's get straight to the facts:
 * 📋 `TickTick` for to-do list
 * 📲 `KDE Connect` for phone integration
 * 🔖 `Notion` for bookmarks
-* ⭐ `Anki` for flashcards
 * 📖 `Kindle` for reading
 
 ## Hobbies
