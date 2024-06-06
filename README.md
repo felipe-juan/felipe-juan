@@ -1,9 +1,8 @@
- <img align="left" width="180" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/fumo%20pixels.gif">
+ <img align="left" width="150" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/fumo%20pixels.gif">
 
 # About Me
 I only know how to make silly introductions, so let's get straight to the facts:
 * 🌎 Lives in [Bahia, Brazil](https://pt.wikipedia.org/wiki/Bahia)
-* 😳 Love for cute things
 * 👨‍💻 Passionate about tech stuff
 * 🐈 Really NEEDS a cat 
 
