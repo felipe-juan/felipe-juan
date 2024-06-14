@@ -9,6 +9,7 @@ I only know how to make silly introductions, so let's get straight to the facts:
 * 🐈 Really NEEDS a cat 
 
 <b></b>
+
 ## Frequently Used Tools
 * 📝 `Obsidian` for note-taking
 * 📋 `TickTick` for to-do list
