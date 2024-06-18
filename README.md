@@ -18,7 +18,7 @@ I only know how to make silly introductions, so let's get straight to the facts:
 * 📖 `Kindle` for reading
 
 ## Hobbies
-* ✍ Writing/Reading (kinda)
+* ✍ Writing/Reading (no habit yet)
 * 🎥 Cinematography (appreciation only) 
 * 🎨 Admiring nice designs (any kind)
 * 📺 Watching good YouTube videos
@@ -32,11 +32,12 @@ I only know how to make silly introductions, so let's get straight to the facts:
 ㅤ<summary>💻 ThinkPad L14 Gen 1 AMD</summary>
  
    OUTDATED PHOTO!! the ThinkPad L14 G1 was a recent acquisition
-so i'll leave the one of my old Dell Inspiron 7560 for now
+so i'll leave the one of my old Dell Inspiron 7560 for now lol
  * **CPU:** AMD Ryzen 5 PRO 4650U
  * **GPU:** Radeon Graphics 2GB
  * **RAM:** 16GB DDR4 (2x 8GB 3200MHz)
  * **Display:** 14.0" / 1080p / IPS
+
    <img width="500" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/dell%20inspiron%207560.png">
 </details>
 
