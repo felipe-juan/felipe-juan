@@ -33,12 +33,11 @@ I only know how to make silly introductions, so let's get straight to the facts:
  
    OUTDATED PHOTO!! the ThinkPad L14 G1 was a recent acquisition
 so i'll leave the one of my old Dell Inspiron 7560 for now
-   <img width="500" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/dell%20inspiron%207560.png">
-
  * **CPU:** AMD Ryzen 5 PRO 4650U
  * **GPU:** Radeon Graphics 2GB
  * **RAM:** 16GB DDR4 (2x 8GB 3200MHz)
  * **Display:** 14.0" / 1080p / IPS
+   <img width="500" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/dell%20inspiron%207560.png">
 </details>
 
 <details>
