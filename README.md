@@ -48,12 +48,18 @@ so i'll leave the one of my old Dell Inspiron 7560 for now lol
 </details>
 
 <details>
+ㅤ<summary>⌨ Logitech Pebble Keys 2 K380s</summary>
+ 
+  <img width="400" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/logitech%20pebble.png">
+ </details>
+
+<details>
 ㅤ<summary>🖱️ Logitech Pebble M350</summary>
  
   <img width="400" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/logitech%20pebble.png">
  </details>
 
-<details><summary>📕 Kindle Paperwhite 11th Generation</summary>
+<details><summary>📕 Kindle Paperwhite 11th Signature</summary>
 
 |   <img height="400" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/kindle%202.png"> | <img height="400" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/kindle%201.png"> |
 | ------------- | ------------- |
