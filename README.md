@@ -18,7 +18,7 @@ I only know how to make silly introductions, so let's get straight to the facts:
 * 📖 `Kindle` for reading
 
 ## Hobbies
-* ✍ Writing/Reading (no habit yet)
+* ✍ Writing/Reading (not a habit yet)
 * 🎥 Cinematography (appreciation only) 
 * 🎨 Admiring nice designs (any kind)
 * 📺 Watching good YouTube videos
