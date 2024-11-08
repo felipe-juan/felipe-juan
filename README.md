@@ -13,9 +13,11 @@ I only know how to make silly introductions, so let's get straight to the facts:
 ## Frequently Used Tools
 * 📝 `Obsidian` for note-taking
 * 📋 `TickTick` for to-do list
-* 📲 `KDE Connect` for phone integration
-* 🔖 `Notion` for bookmarks
+* 🃏 `Anki` for spaced repetition
+* 📲 `LocalSend` for phone integration
 * 📖 `Kindle` for reading
+* 🔖 `Notion` for bookmarks
+
 
 ## Hobbies
 * ✍ Writing/Reading (not a habit yet)
