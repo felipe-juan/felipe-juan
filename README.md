@@ -73,7 +73,3 @@ so i'll leave the one of my old Dell Inspiron 7560 for now lol
  <img width="300" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/mi%20band%207.png"> 
 </details>
 
-## languages that i use
-* none. i'm not a programmer yet lol
-* but hopefully i'll get into computer science soon
- <img align="right" width="40" src="https://upload.wikimedia.org/wikipedia/en/f/fd/Pusheen_the_Cat.png">
