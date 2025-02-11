@@ -7,8 +7,8 @@
   <br>
 </div>
 
-<div>
-
+<body>
+   
 ## Frequently Used Tools
 * 📝 `Obsidian` for note-taking
 * 📋 `TickTick` for to-do list
@@ -84,6 +84,5 @@
 
 <img align="right" width="50" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/pusheen.png">
 
-</div>
-
+</body>
 
