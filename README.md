@@ -21,14 +21,12 @@
 <details>
 ㅤ<summary>💻 ThinkPad L14 Gen 1 AMD</summary>
  
-   OUTDATED PHOTO!! the ThinkPad L14 G1 was a recent acquisition
-so i'll leave the one of my old Dell Inspiron 7560 for now lol
  * **CPU:** AMD Ryzen 5 PRO 4650U
  * **GPU:** Radeon Graphics 2GB
  * **RAM:** 16GB DDR4 (2x 8GB 3200MHz)
  * **Display:** 14.0" / 1080p / IPS
 
-   <img width="500" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/dell%20inspiron%207560.png">
+   <img width="500" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/thinkpad.png>
 </details>
 
 <details>
@@ -46,7 +44,7 @@ so i'll leave the one of my old Dell Inspiron 7560 for now lol
 <details>
 ㅤ<summary>🖱️ Logitech Pebble M350</summary>
  
-  <img width="400" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/logitech%20pebble.png">
+  <img width="400" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/logitech_k380s.png">
  </details>
 
 <details><summary>📕 Kindle Paperwhite 11th Signature</summary>
