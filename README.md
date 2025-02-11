@@ -63,6 +63,9 @@
 |   <img width="250" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/moondrop%20chu%20rounded.png"> | <img width="250"  src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/edifier%20tws1%20pro.png"> |
 | ------------- | ------------- |
 
+
+<img img align="right" width="50"  src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/pusheen.png"> 
+
 </details>
 
 <details>
