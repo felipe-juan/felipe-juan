@@ -10,8 +10,8 @@
 ## Hobbies
 * ✍ Writing/Reading (not a habit yet)
 * 🎥 Cinematography (appreciation only) 
-* 🎨 Admiring nice designs (any kind)
-* 📺 Watching good YouTube videos
+* 🎨 Admiring nice designs and archictures
+* 📺 Watching good YouTube videos 
 * 🎵 J-pop + Indie Rock | [Check my Spotify](https://open.spotify.com/user/jawj49qinebgdkt15jgo6lz6c)
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=jawj49qinebgdkt15jgo6lz6c&count=1&width=330)
