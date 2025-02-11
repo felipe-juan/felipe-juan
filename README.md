@@ -21,6 +21,7 @@
 <details>
 ㅤ<summary>💻 ThinkPad L14 Gen 1 AMD</summary>
  <img width="500" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/thinkpad.png">
+ 
  * **CPU:** AMD Ryzen 5 PRO 4650U
  * **GPU:** Radeon Graphics 2GB
  * **RAM:** 16GB DDR4 (2x 8GB 3200MHz)
