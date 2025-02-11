@@ -60,7 +60,7 @@
 <details>
 ㅤ<summary>🎧 Moondrop Chu II + Edifier TWS1 Pro</summary></summary>
  
-|   <img width="250" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/moondrop%20chu%20rounded.png"> | <img width="250"  src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/edifier%20tws1%20pro.png"> |
+|   <img width="150" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/moondrop%20chu%20rounded.png"> | <img width="150"  src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/edifier%20tws1%20pro.png"> |
 | ------------- | ------------- |
 </details>
 
