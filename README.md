@@ -3,10 +3,8 @@
 
   <h2>Introduction</h2>
 
-Hello, I'm Felipe Juan, I'm 20 years old and I'm just starting to learn programming after all this time. I hope to have my first learning projects soon and maybe, one day, finally switch completely to Linux :)
-<b>
-</b>
-Right now I'm living in Bahia, Brazil and I might start a bachelor's degree in either Computer Science or Information Systems. For now, that's all folks<br>
+Hello, I'm Felipe Juan, I'm 20 years old and I'm just starting to learn programming after all this time. I hope to have my first learning projects soon and maybe, one day, finally switch completely to Linux.
+Right now I'm living in Bahia, Brazil and I might start a bachelor's degree in either Computer Science or Information Systems. For now, that's all folks :)<br>
 </div>
    
 ### Frequently Used Tools
