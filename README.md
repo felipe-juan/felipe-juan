@@ -20,7 +20,7 @@
 
 <details>
 ㅤ<summary>💻 ThinkPad L14 Gen 1 AMD</summary>
- <img width="350" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/thinkpad.png">
+ <img width="400" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/thinkpad.png">
  
  * **CPU:** AMD Ryzen 5 PRO 4650U
  * **GPU:** Radeon Graphics 2GB
@@ -38,7 +38,7 @@
 <details>
 ㅤ<summary>⌨ Logitech Pebble Keys 2 K380s</summary>
 
-   <img width="300" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/logitech_k380s.png">
+   <img width="350" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/logitech_k380s.png">
  </details>
 
 <details>
@@ -49,7 +49,7 @@
 
 <details><summary>📕 Kindle Paperwhite 11th Signature</summary>
 
-|   <img height="400" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/kindle%202.png"> | <img height="400" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/kindle%201.png"> |
+|   <img height="350" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/kindle%202.png"> | <img height="350" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/kindle%201.png"> |
 | ------------- | ------------- |
 
 
