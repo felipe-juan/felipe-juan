@@ -7,6 +7,8 @@
   <br>
 </div>
 
+<b>
+<b/>
 ## Frequently Used Tools
 * 📝 `Obsidian` for note-taking
 * 📋 `TickTick` for to-do list
