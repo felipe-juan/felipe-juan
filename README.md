@@ -3,7 +3,7 @@
 
   <h3>Introduction</h3>
 
-  Hello, I'm Felipe Juan, I'm 20 years old, and I started learning programming quite recently. I hope to have my first little learning projects posted here on my profile soon :)
+  Hello, I'm Felipe Juan, I'm 20 years old and I started learning programming quite recently and hopefully I'll start a bachelor's degree in IT soon. I hope to have my first little learning projects posted here on my profile soon :)
   <br>
 </div>
    
