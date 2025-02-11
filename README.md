@@ -7,7 +7,7 @@
   <br>
 </div>
 
----
+<div>
 
 ## Frequently Used Tools
 * 📝 `Obsidian` for note-taking
@@ -74,6 +74,9 @@
 |   <img width="250" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/moondrop%20chu%20rounded.png"> | <img width="250"  src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/edifier%20tws1%20pro.png"> |
 | ------------- | ------------- |
 </details>
+
+</div>
+
 
 <details>
 ㅤ<summary>⌚ Xiaomi Mi Band 7</summary>
