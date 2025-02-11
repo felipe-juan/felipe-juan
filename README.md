@@ -64,7 +64,7 @@
 | ------------- | ------------- |
 
 
-<img img align="right" width="50"  src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/pusheen.png"> 
+<img align="right" width="50" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/pusheen.png"> 
 
 </details>
 
