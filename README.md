@@ -1,12 +1,12 @@
 <div>
   <img align="left" height="150px" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/fumo%20pixels.gif">
 
-  <h3>Introduction</h3>
+  <h2>Introduction</h2>
 
 Hello, I'm Felipe Juan, I'm 20 years old and I'm just starting to learn programming after all this time. I hope to have my first learning projects soon and, maybe, someday finally switch full to Linux lol  <br>
 </div>
    
-## Frequently Used Tools
+### Frequently Used Tools
 * 📝 `Obsidian` for note-taking
 * 📋 `TickTick` for to-do list
 * 🃏 `Anki` for spaced repetition
@@ -15,7 +15,7 @@ Hello, I'm Felipe Juan, I'm 20 years old and I'm just starting to learn programm
 * 🔖 `Notion` for bookmarks
 
 
-## Hobbies
+### Hobbies
 * ✍ Writing + Reading (not a habit yet)
 * 🎥 Cinematography (appreciation only) 
 * 🎨 Admiring nice designs and archictures
@@ -24,8 +24,7 @@ Hello, I'm Felipe Juan, I'm 20 years old and I'm just starting to learn programm
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=jawj49qinebgdkt15jgo6lz6c&count=1&width=330)
 
-## Tech Devices
-
+### Tech Devices
 <details>
 ㅤ<summary>💻 ThinkPad L14 Gen 1 AMD</summary>
  <img width="400" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/thinkpad.png">
@@ -59,9 +58,6 @@ Hello, I'm Felipe Juan, I'm 20 years old and I'm just starting to learn programm
 
 |   <img height="350" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/kindle%202.png"> | <img height="350" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/kindle%201.png"> |
 | ------------- | ------------- |
-
-
-
   
 </details>
 
