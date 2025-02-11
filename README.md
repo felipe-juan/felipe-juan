@@ -8,7 +8,7 @@
 
 
 ## Hobbies
-* ✍ Writing/Reading (not a habit yet)
+* ✍ Writing + Reading (not a habit yet)
 * 🎥 Cinematography (appreciation only) 
 * 🎨 Admiring nice designs and archictures
 * 📺 Watching good YouTube videos 
@@ -67,7 +67,7 @@
 <details>
 ㅤ<summary>⌚ Xiaomi Mi Band 7</summary>
 
- <img width="250" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/mi%20band%207.png"> 
+ <img width="275" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/mi%20band%207.png"> 
 </details>
 
 <img align="right" width="50" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/pusheen.png">
