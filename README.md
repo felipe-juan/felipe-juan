@@ -37,14 +37,14 @@
 
 <details>
 ㅤ<summary>⌨ Logitech Pebble Keys 2 K380s</summary>
- 
-  <img width="400" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/logitech%20pebble.png">
+
+   <img width="300" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/logitech_k380s.png">
  </details>
 
 <details>
 ㅤ<summary>🖱️ Logitech Pebble M350</summary>
- 
-  <img width="250" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/logitech_k380s.png">
+
+   <img width="250" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/logitech%20pebble.png">
  </details>
 
 <details><summary>📕 Kindle Paperwhite 11th Signature</summary>
