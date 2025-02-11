@@ -60,14 +60,14 @@
 <details>
 ㅤ<summary>🎧 Moondrop Chu II + Edifier TWS1 Pro</summary></summary>
  
-|   <img width="150" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/moondrop%20chu%20rounded.png"> | <img width="150"  src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/edifier%20tws1%20pro.png"> |
+|   <img width="250" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/moondrop%20chu%20rounded.png"> | <img width="250"  src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/edifier%20tws1%20pro.png"> |
 | ------------- | ------------- |
 </details>
 
 <details>
 ㅤ<summary>⌚ Xiaomi Mi Band 7</summary>
 
- <img width="300" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/mi%20band%207.png"> 
+ <img width="250" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/mi%20band%207.png"> 
 </details>
 
 <img align="right" width="50" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/pusheen.png">
