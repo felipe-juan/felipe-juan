@@ -26,7 +26,7 @@
  * **RAM:** 16GB DDR4 (2x 8GB 3200MHz)
  * **Display:** 14.0" / 1080p / IPS
 
-   <img width="500" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/thinkpad.png>
+   <img width="500" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/thinkpad.png">
 </details>
 
 <details>
