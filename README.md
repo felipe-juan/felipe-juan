@@ -20,7 +20,7 @@
 
 <details>
 ㅤ<summary>💻 ThinkPad L14 Gen 1 AMD</summary>
- <img width="300" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/thinkpad.png">
+ <img width="350" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/thinkpad.png">
  
  * **CPU:** AMD Ryzen 5 PRO 4650U
  * **GPU:** Radeon Graphics 2GB
@@ -32,13 +32,13 @@
 <details>
 ㅤ<summary>📱 Samsung Galaxy S10e</summary>
  
- <img width="400" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/galaxy%20s10e.png">
+ <img width="250" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/galaxy%20s10e.png">
 </details>
 
 <details>
 ㅤ<summary>⌨ Logitech Pebble Keys 2 K380s</summary>
  
-  <img width="300" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/logitech%20pebble.png">
+  <img width="400" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/logitech%20pebble.png">
  </details>
 
 <details>
@@ -60,7 +60,7 @@
 <details>
 ㅤ<summary>🎧 Moondrop Chu II + Edifier TWS1 Pro</summary></summary>
  
-|   <img width="240" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/moondrop%20chu%20rounded.png"> | <img width="240"  src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/edifier%20tws1%20pro.png"> |
+|   <img width="250" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/moondrop%20chu%20rounded.png"> | <img width="250"  src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/edifier%20tws1%20pro.png"> |
 | ------------- | ------------- |
 
 </details>
