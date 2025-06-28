@@ -9,7 +9,7 @@ Right now I'm living in Bahia, Brazil and I might start a bachelor's degree in e
    
 ### Frequently Used Tools
 * 📝 `Obsidian` for note-taking
-* 📋 `TickTick` for to-do list
+* 📋 `Todoist` for to-do list
 * 🃏 `Anki` for spaced repetition
 * 📲 `LocalSend` for phone integration
 * 📖 `Kindle` for reading
