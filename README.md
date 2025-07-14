@@ -7,7 +7,10 @@ Hello, I'm Felipe Juan, I'm 20 years old and I'm just starting to learn programm
 I'm currently living in Bahia, Brazil, and am an undergraduate student of Information Systems at the Federal Institute of Bahia in Vitória da Conquista. That's all for now, folks. :)
 </div>
 </div>
-   
+
+<div>
+</div>
+
 ### Frequently Used Tools
 * 📝 `Obsidian` for note-taking
 * 📋 `Todoist` for to-do list
