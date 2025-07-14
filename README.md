@@ -1,4 +1,4 @@
-  <img align="left" height="175px" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/fumo%20pixels.gif">
+  <img align="left" height="250px" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/fumo%20pixels.gif">
 
 ### Frequently Used Tools
 * 📝 `Obsidian` for note-taking
