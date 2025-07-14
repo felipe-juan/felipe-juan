@@ -1,12 +1,5 @@
   <img align="left" height="175px" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/fumo%20pixels.gif">
 
-  <h2>Introduction</h2>
-[chatgpt please generate a generic bio to include in my github profile]
-
-
-<div>
-</div>
-
 ### Frequently Used Tools
 * 📝 `Obsidian` for note-taking
 * 📋 `Todoist` for to-do list
