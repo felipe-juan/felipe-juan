@@ -1,7 +1,7 @@
   <img align="left" height="175px" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/fumo%20pixels.gif">
 
   <h2>Introduction</h2>
-I'm currently an undergraduate Information Systems student at the Federal Institute of Bahia in Vitória da Conquista, Bahia, Brazil. That's all for now, folks! :)
+[chatgpt please generate a generic bio to include in my github profile]
 
 
 <div>
