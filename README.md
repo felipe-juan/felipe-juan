@@ -3,6 +3,7 @@
 
   <h2>Introduction</h2>
 Hello, I'm Felipe Juan, I'm 20 years old and I'm just starting to learn programming after all this time. I hope to have my first learning projects soon and maybe, one day, finally switch completely to Linux.
+
 I'm currently living in Bahia, Brazil, and am an undergraduate student of Information Systems at the Federal Institute of Bahia in Vitória da Conquista. That's all for now, folks. :)
 </br>
 </div>
