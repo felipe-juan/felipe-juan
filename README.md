@@ -10,7 +10,7 @@
 
 
 ### Hobbies
-* ✍ Writing + Reading (not a habit yet)
+* ✍️ Writing + Reading (not a habit yet)
 * 🎥 Cinematography (appreciation only) 
 * 🎨 Admiring nice designs and archictures
 * 📺 Watching good YouTube videos 
