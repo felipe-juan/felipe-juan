@@ -25,9 +25,10 @@
  <img width="400" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/thinkpad%204.png">
 
  * **CPU:** AMD Ryzen 5 PRO 4650U
- * **GPU:** Radeon Graphics 2GB
+ * **GPU:** AMD Radeon Graphics 2GB
  * **RAM:** 16GB DDR4 (2x 8GB 3200MHz)
- * **Display:** 14.0" / 1080p / IPS
+ * **Screen:** 14.0" / 1080p / IPS
+ * **OS:** Fedora 42 + GNOME 48
 
 </details>
 
