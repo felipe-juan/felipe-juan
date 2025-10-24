@@ -16,7 +16,7 @@
 * 📺 Watching good YouTube videos 
 * 🎵 J-pop + Indie Rock | [Check my Spotify](https://open.spotify.com/user/jawj49qinebgdkt15jgo6lz6c)
 
-![Last.FM Last Played Song](https://img.shields.io/endpoint?color=blueviolet&url=https://lastfm-last-played.biancarosa.com.br/{FelipeJuanDias}/latest-song?format=shields.io)
+![Last.FM Last Played Song](https://img.shields.io/endpoint?color=blueviolet&url=https://lastfm-last-played.biancarosa.com.br/FelipeJuanDias/latest-song?format=shields.io)
 
 ### Tech Devices
 <details>
