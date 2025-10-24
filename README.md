@@ -14,7 +14,7 @@
 * 🎥 Cinematography (appreciation only) 
 * 🎨 Admiring nice designs and archictures
 * 📺 Watching good YouTube videos 
-* 🎵 J-pop + Indie Rock | [Check my Spotify](https://open.spotify.com/user/jawj49qinebgdkt15jgo6lz6c)
+* 🎵 J-pop + Indie Rock | [Check my Last.fm](https://www.last.fm/user/FelipeJuanDias)
 
 ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=FelipeJuanDias&count=3)
 
