@@ -4,7 +4,7 @@
 * 📝 `Obsidian` for note-taking
 * 📋 `Todoist` for to-do list
 * 🃏 `Anki` for spaced repetition
-* 📲 `LocalSend` for phone integration
+* 📲 `KDE Connect` for phone integration
 * 📖 `Kindle` for reading
 * 🔖 `Notion` for bookmarks
 
@@ -28,7 +28,7 @@
  * **GPU:** Radeon Graphics 2GB
  * **RAM:** 16GB DDR4 (2x 8GB 3200MHz)
  * **Screen:** 14.0" / 1080p / IPS
- * **OS:** Fedora 42 + GNOME 48
+ * **OS:** Fedora 44 + kDE 6.6
 
 </details>
 
