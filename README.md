@@ -11,6 +11,7 @@
 - ⭐ &nbsp;  [**My Dotfiles Repository**](https://github.com/felipe-juan/dotfiles) - A well-organized, 140+ star collection of my last Linux configurations.
 
 ## Technologies
+
 <p align="left"> 
   <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -19,6 +20,9 @@
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img alt="Fedora" src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white">
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img alt="Claude Code" src="https://img.shields.io/badge/Claude%20Code-5A3E2B?style=for-the-badge&logo=anthropic&logoColor=white">
+  <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
 </p>
 
 ---
