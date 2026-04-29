@@ -10,7 +10,6 @@
 - 💻 &nbsp; No specific area yet, but mostly leaning towards **full-stack development** and **data science**;
 - ⭐ &nbsp;  [**My Dotfiles Repository**](https://github.com/felipe-juan/dotfiles) - A well-organized, 140+ star collection of my last Linux configurations.
 
-## Technologies
 
 ## Technologies
 
