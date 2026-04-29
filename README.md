@@ -1,14 +1,23 @@
 <img align="left" height="240px" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/fumo%20pixels.gif">
 
-
 ---
 
-### 📊 GitHub Stats
+# Hello, I'm Felipe Juan
+## About me
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=felipe-juan&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=felipe-juan&layout=compact&langs_count=5&theme=dracula" height="150" />
-</div>
+- 🎓 &nbsp; Bachelor in **Information Systems** at [**Federal Institute of Bahia**](https://portal.ifba.edu.br/);
+- 📍 &nbsp; I'm from [São Paulo](https://en.wikipedia.org/wiki/S%C3%A3o_Paulo), but currently living on [Bahia](https://en.wikipedia.org/wiki/Bahia).
+- 🐧 &nbsp; Regular Linux user. Currently on Fedora 44;
+- 💻 &nbsp; No specific area yet, although I'm mostly leaning towards front-end development;
+
+## Programming languages
+
+<p align="left"> 
+  <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+</p>
 
 ---
 
