@@ -85,6 +85,7 @@
  <img width="275" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/mi%20band%207.png"> 
 </details>
 
+</details>
+
 <img align="right" width="50" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/pusheen.png">
 
-</details>
