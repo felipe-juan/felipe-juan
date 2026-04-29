@@ -1,7 +1,7 @@
 <img align="left" height="240px" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/fumo%20pixels.gif">
 
 <details>
-<summary><h2>Not-so-relevant info about me</h2></summary>
+<summary><h3>Not-so-relevant info about me</h3></summary>
  
 ### Frequently Used Tools
 * 📝 `Obsidian` for note-taking
