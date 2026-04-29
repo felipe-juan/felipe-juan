@@ -1,5 +1,8 @@
 <img align="left" height="240px" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/fumo%20pixels.gif">
 
+<details>
+<summary><strong>Not-so-relevant info about me</strong></summary>
+
 ### Frequently Used Tools
 * 📝 `Obsidian` for note-taking
 * 📋 `Todoist` for to-do list
@@ -45,12 +48,12 @@
  </details>
 
 <details>
-ㅤ<summary>🖱️ Logitech Pebble M350</summary>
+ㅤ<summary>🖱️ Logitech POP Mouse</summary>
 
    <img width="250" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/logitech%20pebble.png">
  </details>
 
-<details><summary>📕 Kindle Paperwhite 11th Signature</summary>
+<details><summary>📕 Kindle Basic 11th Generation</summary>
 
 |   <img height="350" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/kindle%202.png"> | <img height="350" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/kindle%201.png"> |
 | ------------- | ------------- |
@@ -58,12 +61,11 @@
 </details>
 
 <details>
-ㅤ<summary>🎧 Moondrop Chu II + Edifier TWS1 Pro</summary></summary>
- 
+ㅤ<summary>🎧 Moondrop Chu II + Edifier TWS1 Pro + Havit H2002D</summary>
+
 |   <img width="250" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/moondrop%20chu%20rounded.png"> | <img width="250"  src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/edifier%20tws1%20pro.png"> |
 | ------------- | ------------- |
 </details>
-
 
 <details>
 ㅤ<summary>⌚ Xiaomi Mi Band 7</summary>
@@ -73,3 +75,4 @@
 
 <img align="right" width="50" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/pusheen.png">
 
+</details>
