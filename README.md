@@ -2,8 +2,8 @@
 
 ---
 
-# Hello, I'm Felipe Juan
-## About me
+## Hello, I'm Felipe Juan!
+### About me
 
 - 🎓 &nbsp; Bachelor in **Information Systems** at [**Federal Institute of Bahia**](https://portal.ifba.edu.br/);
 - 📍 &nbsp; I'm from [São Paulo](https://en.wikipedia.org/wiki/S%C3%A3o_Paulo), but currently living on [Bahia](https://en.wikipedia.org/wiki/Bahia).
