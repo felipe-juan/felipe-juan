@@ -2,7 +2,7 @@
 
 ---
 
-## Hello, I'm Felipe Juan!
+## Hi there, I'm Juan! 👋
 ### About me
 
 - 🎓 &nbsp; Bachelor in **Information Systems** at [**Federal Institute of Bahia**](https://portal.ifba.edu.br/);
