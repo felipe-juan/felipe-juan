@@ -1,8 +1,8 @@
 <img align="left" height="240px" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/fumo%20pixels.gif">
 
 <details>
-<summary><strong>Not-so-relevant info about me</strong></summary>
-
+<summary><h2>Not-so-relevant info about me</h2></summary>
+ 
 ### Frequently Used Tools
 * 📝 `Obsidian` for note-taking
 * 📋 `Todoist` for to-do list
