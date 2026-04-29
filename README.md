@@ -6,9 +6,10 @@
 ### About me
 
 - 🎓 &nbsp; Bachelor in **Information Systems** at [**Federal Institute of Bahia**](https://portal.ifba.edu.br/);
-- 📍 &nbsp; I'm from [São Paulo](https://en.wikipedia.org/wiki/S%C3%A3o_Paulo), but currently living on [Bahia](https://en.wikipedia.org/wiki/Bahia).
+- 📍 &nbsp; I'm from [**São Paulo**](https://en.wikipedia.org/wiki/S%C3%A3o_Paulo), but currently living on [**Bahia**](https://en.wikipedia.org/wiki/Bahia).
 - 🐧 &nbsp; Regular Linux user. Currently on Fedora 44;
 - 💻 &nbsp; No specific area yet, although I'm mostly leaning towards front-end development;
+- ⭐ &nbsp;  [*My Dotfiles Repository*](https://github.com/felipe-juan/dotfiles) - A well-organized, 140+ star collection of my last Linux configurations.
 
 ## Programming languages
 
