@@ -1,4 +1,4 @@
-<img align="left" height="270px" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/fumo%20pixels.gif">
+<img align="left" height="275px" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/fumo%20pixels.gif">
 
 ---
 
