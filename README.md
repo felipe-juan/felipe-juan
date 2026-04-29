@@ -13,7 +13,7 @@
 ---
 
 <details>
-<summary><h3>🤔 Not-so-relevant info about me</h3></summary>
+<summary><h3>🤔 Not-so-relevant info</h3></summary>
  
 ### Frequently Used Tools
 * 📝 `Obsidian` for note-taking
