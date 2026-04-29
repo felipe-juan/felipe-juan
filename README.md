@@ -53,7 +53,7 @@
  * **GPU:** Radeon Graphics 2GB
  * **RAM:** 16GB DDR4 (2x 8GB 3200MHz)
  * **Screen:** 14.0" / 1080p / IPS
- * **OS:** Fedora 44 + kDE 6.6
+ * **OS:** Fedora 44 + KDE 6.6
 
 </details>
 
