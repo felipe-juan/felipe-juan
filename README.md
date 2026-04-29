@@ -1,6 +1,5 @@
 <img align="left" height="275px" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/fumo%20pixels.gif">
 
----
 
 ## Hi there, I'm Juan! 👋
 ### Here's a bit about me:
@@ -10,6 +9,7 @@
 - 💻 &nbsp; No specific area yet, but mostly leaning towards **full-stack development** and **data science**;
 - ⭐ &nbsp;  [**My Dotfiles Repository**](https://github.com/felipe-juan/dotfiles) - A well-organized, 140+ star collection of my last Linux configurations.
 
+---
 
 ## Technologies
 
