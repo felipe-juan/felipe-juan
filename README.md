@@ -1,5 +1,17 @@
 <img align="left" height="240px" src="https://github.com/felipe-juan/felipe-juan/blob/main/assets/fumo%20pixels.gif">
 
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=felipe-juan&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=felipe-juan&layout=compact&langs_count=5&theme=dracula" height="150" />
+</div>
+
+---
+
 <details>
 <summary><h3>Not-so-relevant info about me</h3></summary>
  
