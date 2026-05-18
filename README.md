@@ -3,11 +3,11 @@
 
 ## Hi there, I'm Juan! 👋
 ### Here's a bit about me:
-- 🎓 &nbsp; Bachelor in **Information Systems** at [**Federal Institute of Bahia**](https://portal.ifba.edu.br/);
-- 📍 &nbsp; I'm from [**São Paulo**](https://en.wikipedia.org/wiki/S%C3%A3o_Paulo), but currently living on [**Bahia**](https://en.wikipedia.org/wiki/Bahia).
+- 🎓 &nbsp; Bachelor in **Information Systems** at [**Federal Institute of Bahia**](https://portal.ifba.edu.br/)
+- 📍 &nbsp; I'm from [**São Paulo**](https://en.wikipedia.org/wiki/S%C3%A3o_Paulo), but currently living on [**Bahia**](https://en.wikipedia.org/wiki/Bahia)
 - 🐧 &nbsp; Casual Linux user. Currently on [**Fedora 44**](https://fedoraproject.org/);
-- 💻 &nbsp; No specific area yet, but mostly leaning towards **full-stack development** and **data science**;
-- ⭐ &nbsp; [**My Dotfiles Repository**](https://github.com/felipe-juan/dotfiles) - A well-organized, 140+ star collection of my last Linux configurations.
+- 💻 &nbsp; No specific area yet, but mostly leaning towards **full-stack development** and **data science**
+- ⭐ &nbsp; [**My Dotfiles Repository**](https://github.com/felipe-juan/dotfiles) - A well-organized, 140+ star collection of my last Linux configurations
 
 ---
 
