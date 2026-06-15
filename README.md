@@ -48,7 +48,7 @@
  
 ### Frequently Used Tools
 * 📝 `Obsidian` for note-taking
-* 📋 `Todoist` for to-do list
+* 📋 `TickTick` for to-do list
 * 🃏 `Anki` for spaced repetition
 * 📲 `KDE Connect` for phone integration
 * 📖 `Kindle` for reading
